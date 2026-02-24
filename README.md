@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040141
+# Name: John Wilfred Thomas J W
+# Date: 24.02.2026
 
 
 # AIM:
@@ -39,11 +39,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
-
+<img width="1150" height="914" alt="image" src="https://github.com/user-attachments/assets/b0a4a543-2f5a-413d-8d82-ce243c4b84aa" />
 
 
 # CLASS DIAGRAM
@@ -59,7 +55,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-
+<img width="1159" height="949" alt="image" src="https://github.com/user-attachments/assets/7ec9c130-823c-4bcf-a521-8d0b66f0f53e" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,9 +63,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
-
+<img width="1146" height="914" alt="image" src="https://github.com/user-attachments/assets/38d4b078-50b3-421c-99bd-2b8c142de4d3" />
 
 # PACKAGE DIAGRAM:
 
@@ -78,13 +72,7 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
-
-
+<img width="1106" height="841" alt="image" src="https://github.com/user-attachments/assets/f53cd4d6-f252-48a6-9554-6210aca8d3e9" />
 
 # ACTIVITY DIAGRAM:
 

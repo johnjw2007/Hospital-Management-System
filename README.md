@@ -1,4 +1,4 @@
-<img width="989" height="1036" alt="image" src="https://github.com/user-attachments/assets/c4957f8b-6095-4da4-a469-c3d989e26265" /># Hospital-Management-System
+# Hospital-Management-System
 
 # Reg No: 212224040141
 # Name: John Wilfred Thomas J W

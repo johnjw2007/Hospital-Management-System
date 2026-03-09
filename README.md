@@ -1,4 +1,4 @@
-# Hospital-Management-System
+<img width="989" height="1036" alt="image" src="https://github.com/user-attachments/assets/c4957f8b-6095-4da4-a469-c3d989e26265" /># Hospital-Management-System
 
 # Reg No: 212224040141
 # Name: John Wilfred Thomas J W
@@ -85,8 +85,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-
-
+<img width="989" height="1036" alt="image" src="https://github.com/user-attachments/assets/41efef8a-897b-4731-92a8-d6c158b04ec4" />
 
 
 
@@ -95,6 +94,7 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+<img width="1054" height="977" alt="image" src="https://github.com/user-attachments/assets/2c5313ea-48a7-4f09-b09b-777bf3f2289c" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
